@@ -1,0 +1,10 @@
+{
+  "extension": ["ts"],
+  "unhandled-rejections": "strict",
+  "recursive": true,
+  "require": ["ts-node/register"],
+  "ui": "bdd",
+  "reporter": "spec",
+  "timeout": 30000,
+  "exit": true
+}

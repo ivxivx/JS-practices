@@ -1,0 +1,10 @@
+{
+  "all": true,
+  "exclude": [
+    "**/*.js",
+    "**/*.mjs",
+    "**/fixtures/**",
+    "**/fixture.ts",
+    "tmp/**"
+  ]
+}
